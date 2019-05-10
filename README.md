@@ -68,3 +68,6 @@ Researcher shall use the Database only for non-commercial research and education
 -**Paper**: Panetta, Karen, Qianwen Wan, Sos Agaian, Srijith Rajeev, Shreyas Kamath, Rahul Rajendran, Shishir Rao et al. "A comprehensive database for benchmarking imaging systems." IEEE Transactions on Pattern Analysis and Machine Intelligence (2018). 
 
 *Note: if the link is broken, please use http instead of https.*
+
+In chrome, use the steps recommended in the following website to view the webpage if it appears to be broken
+https://www.technipages.com/chrome-enabledisable-not-secure-warning
