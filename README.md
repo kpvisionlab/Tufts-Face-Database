@@ -19,15 +19,15 @@ This database will be available to researchers worldwide in order to benchmark f
 
 3. [Tufts Face Database Three Dimensional (3D) (TD_3D)](https://www.kaggle.com/kpvisionlab/tufts-face-database-three-dimensional-3d-td-3d)
 
-4. [Tufts Face Database Lytro (TD_LYT) *(Check Note)*](http://tdface.ece.tufts.edu/downloads/TD_LYT_A/)
+4. [Tufts Face Database Lytro (TD_LYT) *(Check Note)*](http://tdface.ece.tufts.edu/)
 
-5. [Tufts Face Database 2D RGB Around (TD_RGB_A) *(Check Note)*](http://tdface.ece.tufts.edu/downloads/TD_RGB_A/) 
+5. [Tufts Face Database 2D RGB Around (TD_RGB_A) *(Check Note)*](http://tdface.ece.tufts.edu/) 
 
-6. [Tufts Face Database 2D RGB Emotion (TD_RGB_E) *(Check Note)*](http://tdface.ece.tufts.edu/downloads/TD_RGB_E/) 
+6. [Tufts Face Database 2D RGB Emotion (TD_RGB_E) *(Check Note)*](http://tdface.ece.tufts.edu/) 
 
-7. [Tufts Face Database Night Vision (NIR) (TD_NIR) *(Check Note)*](http://tdface.ece.tufts.edu/downloads/TD_NIR_A/)
+7. [Tufts Face Database Night Vision (NIR) (TD_NIR) *(Check Note)*](http://tdface.ece.tufts.edu/)
 
-8. [Tufts Face Database Video (TD_VIDEO) *(Check Note)*](http://tdface.ece.tufts.edu/downloads/TD_VIDEO.zip)
+8. [Tufts Face Database Video (TD_VIDEO) *(Check Note)*](http://tdface.ece.tufts.edu/)
 
 *Note: Please use http instead of https. The link appears broken when https is used.*
 
