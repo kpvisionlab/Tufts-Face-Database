@@ -1,5 +1,6 @@
 # Tufts-Face-Database
 ## Multi-modal face  images (112 participants, >100,000 images in total)
+## 6 image modalities: visible, near-infrared, thermal, computerized sketch, a recorded video, and 3D images
 
 Contains information and links for the tufts face database
 
