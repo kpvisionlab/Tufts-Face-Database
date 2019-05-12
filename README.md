@@ -1,4 +1,6 @@
 # Tufts-Face-Database
+## Multi-modal face  images (112 participants, >100,000 images in total)
+
 Contains information and links for the tufts face database
 
 ### Context
