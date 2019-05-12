@@ -1,12 +1,12 @@
 # Tufts-Face-Database
 ## Multi-modal face  images (112 participants, >100,000 images in total)
-## 6 image modalities: visible, near-infrared, thermal, computerized sketch, a recorded video, and 3D images
+## 7 image modalities: visible, near-infrared, thermal, computerized sketch, LYTRO, recorded video, and 3D images
 
 Contains information and links for the tufts face database
 
 ### Context
 
-Tufts Face Database is the most comprehensive, large-scale (over 10,000 images, 74 females + 38 males, from more than 15 countries with an age range between 4 to 70 years old) face dataset that contains 6 image modalities: visible, near-infrared, thermal, computerized sketch, a recorded video, and 3D images. This webpage/dataset contains the Tufts Face Database three-dimensional (3D) images. The other datasets are made available through separate links by the user.
+Tufts Face Database is the most comprehensive, large-scale (over 10,000 images, 74 females + 38 males, from more than 15 countries with an age range between 4 to 70 years old) face dataset that contains 7 image modalities: visible, near-infrared, thermal, computerized sketch, LYTRO, recorded video, and 3D images. This webpage/dataset contains the Tufts Face Database three-dimensional (3D) images. The other datasets are made available through separate links by the user.
 
 Cross-modality face recognition is an emerging topic due to the wide-spread usage of different sensors in day-to-day life applications. The development of face recognition systems relies greatly on existing databases for evaluation and obtaining training examples for data-hungry machine learning algorithms. However, currently, there is no publicly available face database that includes more than two modalities for the same subject. In this work, we introduce the Tufts Face Database that includes images acquired in various modalities: photograph images, thermal images, near infrared images, a recorded video, a computerized facial sketch, and 3D images of each volunteer’s face. An Institutional Research Board protocol was obtained, and images were collected from students, staff, faculty, and their family members at Tufts University. 
 
