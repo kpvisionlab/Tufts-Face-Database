@@ -1,8 +1,6 @@
 # Tufts-Face-Database
-## Multi-modal face  images (112 participants, >100,000 images in total)
-## 7 image modalities: visible, near-infrared, thermal, computerized sketch, LYTRO, recorded video, and 3D images
-
-Contains information and links for the tufts face database
+## Multi-modal face  images (112 participants, &gt;100,000 images in total)
+## 7 image modalities: visible, near-infrared, thermal, computerized sketch, video, LYTRO and 3D images
 
 ### Context
 
@@ -14,13 +12,13 @@ This database will be available to researchers worldwide in order to benchmark f
 
 ### Links to modalities of the Tufts Face Database
 
-1. [Tufts Face Database Computerized Sketches (TD_CS)](https://www.kaggle.com/kpvisionlab/tufts-face-database-computerized-sketches-td-cs)
+1. [Tufts Face Database Computerized Sketches (TD_CS)](http://tdface.ece.tufts.edu/)
 
-2. [Tufts Face Database Thermal (TD_IR) Around+Emotion](https://www.kaggle.com/kpvisionlab/tufts-face-database-thermal-td-ir)
+2. [Tufts Face Database Thermal (TD_IR) Around+Emotion](http://tdface.ece.tufts.edu/)
 
-3.  [Tufts Face Database Thermal Cropped (TD_IR_Cropped) Emotion only](https://www.kaggle.com/kpvisionlab/tufts-face-database-thermal-cropped)
+3.  [Tufts Face Database Thermal Cropped (TD_IR_Cropped) Emotion only](http://tdface.ece.tufts.edu/)
 
-3. [Tufts Face Database Three Dimensional (3D) (TD_3D)](https://www.kaggle.com/kpvisionlab/tufts-face-database-three-dimensional-3d-td-3d)
+3. [Tufts Face Database Three Dimensional (3D) (TD_3D)](http://tdface.ece.tufts.edu/)
 
 4. [Tufts Face Database Lytro (TD_LYT) *(Check Note)*](http://tdface.ece.tufts.edu/)
 
@@ -31,6 +29,8 @@ This database will be available to researchers worldwide in order to benchmark f
 7. [Tufts Face Database Night Vision (NIR) (TD_NIR) *(Check Note)*](http://tdface.ece.tufts.edu/)
 
 8. [Tufts Face Database Video (TD_VIDEO) *(Check Note)*](http://tdface.ece.tufts.edu/)
+
+9. [Tufts Face Thermal2RGB Dataset](http://tdface.ece.tufts.edu/)
 
 *Note: Please use http instead of https. The link appears broken when https is used.*
 
@@ -60,7 +60,7 @@ TD_VIDEO:  The images were captured using one of the visible field quad cameras.
 
 ### Terms and Conditions
 
-Researcher shall use the Database only for non-commercial research and educational purposes. Any commercial distribution or act related to the commercial usage of this database is strictly prohibited. Tufts University nor Panetta’s Vision and Sensing System Lab makes no representations or warranties regarding the Database, including but not limited to warranties of non-infringement or fitness for a particular purpose. The Researcher may not provide research associates and colleagues with access to the Database. The distribution of this database to any parties that have not read and agreed to the terms and conditions of usage is strictly prohibited. Researcher accepts full responsibility for his or her use of the Database and shall defend and indemnify the Tufts University or the Panetta’s Vision and Sensing System Lab, including their employees, Trustees, officers and agents, against any and all claims arising from Researcher's use of the Database, including but not limited to Researcher's use of any copies of copyrighted images that he or she may create from the Database. Neither Panetta’s vision and sensing systems lab nor any third parties who may provide information to us for the dissemination purpose shall have any responsibility for or be liable in respect of the content or the accuracy of the provided information, or for any errors or omissions therein. The Panetta’s vision and sensing systems lab reserves the right to revise, amend, alter or delete the information provided herein at any time, but shall not be responsible for or liable in respect of any such revisions, amendments, alterations or deletions.  The images available in this database can only be published or presented in research papers or at research conferences and cannot be used for any commercial purpose. No permission is granted to reproduce the database or post into any webpage or any other storage means. This database contains human subjects who agreed to participate in the acquisition of this database for the research purposes. To guarantee the proper use of this database, the above steps are requested and must be followed by every user. No country or institution is excluded of any of the above steps. Failure to follow the above steps will invite legal prosecution.
+The researcher shall use the Database only for non-commercial research and educational purposes. Any commercial distribution or act related to the commercial usage of this database is strictly prohibited. Tufts University nor Panetta’s Vision and Sensing System Lab makes no representations or warranties regarding the Database, including but not limited to warranties of non-infringement or fitness for a particular purpose. The Researcher may not provide research associates and colleagues with access to the Database. The distribution of this database to any parties that have not read and agreed to the terms and conditions of usage is strictly prohibited. Researcher accepts full responsibility for his or her use of the Database and shall defend and indemnify the Tufts University or the Panetta’s Vision and Sensing System Lab, including their employees, Trustees, officers and agents, against any and all claims arising from Researcher's use of the Database, including but not limited to Researcher's use of any copies of copyrighted images that he or she may create from the Database. Neither Panetta’s vision and sensing systems lab nor any third parties who may provide information to us for the dissemination purpose shall have any responsibility for or be liable in respect of the content or the accuracy of the provided information, or for any errors or omissions therein. The Panetta’s vision and sensing systems lab reserves the right to revise, amend, alter or delete the information provided herein at any time, but shall not be responsible for or liable in respect of any such revisions, amendments, alterations or deletions.  The images available in this database can only be published or presented in research papers or at research conferences and cannot be used for any commercial purpose. No permission is granted to reproduce the database or post into any webpage or any other storage means. This database contains human subjects who agreed to participate in the acquisition of this database for the research purposes. To guarantee the proper use of this database, the above steps are requested and must be followed by every user. No country or institution is excluded of any of the above steps. Failure to follow the above steps will invite legal prosecution.
 
 **Any publication using this database must reference to this**
 
@@ -72,5 +72,6 @@ Researcher shall use the Database only for non-commercial research and education
 
 *Note: if the link is broken, please use http instead of https.*
 
-In chrome, use the steps recommended in the following website to view the webpage if it appears to be broken
-https://www.technipages.com/chrome-enabledisable-not-secure-warning
+In Google chrome, use the steps recommended in the following website to view the webpage if it appears to be broken https://www.technipages.com/chrome-enabledisable-not-secure-warning
+
+For any enquires regarding the Tufts Face Database, contact: panettavisonsensinglab@gmail.com
